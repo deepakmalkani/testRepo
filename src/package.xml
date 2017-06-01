@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Garage</members>
+        <members>Library_Management_System</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Branch__c</members>
+        <members>Assignment__c</members>
+        <members>Expense__c</members>
+        <members>Garage__c</members>
+        <members>House__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>38.0</version>
+</Package>
