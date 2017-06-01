@@ -5,6 +5,8 @@
         <members>Library_Management_System</members>
         <members>Project_Management</members>
         <members>Real_Estate</members>
+        <members>Survey_Force</members>
+        <members>Warehouse</members>
         <name>CustomApplication</name>
     </types>
     <types>
